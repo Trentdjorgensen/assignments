@@ -1,0 +1,12 @@
+p {
+    font-style: italic
+}
+h1 {
+    text-underline-position: below;
+}
+h2 { 
+    outline-color: rebeccapurple;
+}
+div {
+    block-size: 50px;
+}

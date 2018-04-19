@@ -1,0 +1,19 @@
+var shopper[
+    {
+        groceryList = milk
+        quantity = 1
+        isItThere = true
+    },
+    {
+        groceryList = bread
+        quantity = 1
+        isItThere = true
+    },
+    {
+        groceryList = cheese
+        quantity = 2
+        isItThere = false
+    }
+]
+
+console.log (groceryList)'

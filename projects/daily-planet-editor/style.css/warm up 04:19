@@ -1,0 +1,26 @@
+var water bottle = {
+    color: "clear",
+    price: 1,
+    isPurified: true,
+    Write: function(){
+        console.log("I'm a " + this.color + "water bottle $" + this.price)
+    }
+};
+var cable = {
+    color: "white",
+    price: "$39",
+    length: "3 feet",
+    plugIn: function(){
+        console.log("I'm a " + this.color + "cable costs )
+    }
+};
+var ductPipe = {
+    color: "silver",
+    price: "$35",
+    length: "10 feet"
+};
+var hoodie = {
+    color: "brown",
+    price: "$20",
+    brand: "quicksilver"
+};
