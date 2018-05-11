@@ -1,0 +1,108 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://scontent-dfw5-1.xx.fbcdn.net/v/t31.0-8/23270385_10212999434433257_1255870991372144408_o.jpg?_nc_cat=0&oh=61a72070237c64f0a61a6ec1563708c0&oe=5B59EA85);
+   } 
+@media only screen and (max-width: 600px) {
+        body {
+            background-image: url(http://www.ancient-origins.net/sites/default/files/field/image/Ancient-Egypt-in-Next-Assassins-Creed.jpg);
+        }
+}
+article{
+    color: rgb(207, 7, 84);
+    text-shadow:2px 3px black;
+}
+h1{
+    position: relative;
+    width: 100%;
+    font-size: 90px;
+    margin: 0px;
+}
+h2{
+    color: rgb(126, 60, 233);
+    text-shadow:2px 2px rgb(5, 197, 5);
+    font-size:75px;
+    margin: 5px;
+}
+.box{
+    display: flex;
+    flex-flow: row;
+    font-size: xx-large;
+}
+#t{
+    position: relative;
+    height: 250px;
+    width: 445px;
+    background-image: url(https://cdn.tourradar.com/s3/tour/original/85749_2c924054.jpg);
+    background-size: cover;
+    border: darkseagreen solid 3px;
+    float:left;
+}
+h3{
+    display: inline-block;
+    width: 75px;
+    height: 25px;
+    border: 1px solid gold;
+    color: yellow;
+}
+#e{
+    position: relative;
+    height: 250px;
+    width: 450px;
+    background-image: url(https://cdn.shopify.com/s/files/1/2316/3287/products/KITBASH3D_EGYPT_WEBPIC_03_1024x1024.jpg?v=1523293016);
+    background-size: cover;
+    border: salmon solid 3px;
+    float: right;
+}   
+#p{
+    position: relative;
+    height: 250px;
+    width: 480px;
+    background-image: url(https://cdn.internationalliving.com/wp-content/uploads/2014/04/Peru-Feature.jpg);
+    background-size: cover;
+    border: skyblue solid 3px;
+    float: right;
+}
+p1{
+    display: block;
+    border: skyblue solid 5px;
+    color: white;
+    background-color: black;
+}
+p2{
+    display: block;
+    border: skyblue solid 5px;
+    color: white;
+    background-color: black;
+
+}
+p3{
+    display: block;
+    border: skyblue solid 5px;
+    color: white;
+    background-color: black;
+}
+.places{
+    color:rgb(255, 94, 0);
+}
+button{
+    height: 75px;
+    width: 400px;
+    background-color: tan;
+    border: solid 2px black;
+    font-size: 20px;
+    color: crimson;
+}
+h4{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    font-size: 45px;
+    text-shadow:2px 2px black;
+    color: red;
+    margin: 5px;
+}
+.contain{
+    display: flex;
+    flex-wrap: wrap;
+}

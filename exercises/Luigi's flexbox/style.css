@@ -1,0 +1,15 @@
+
+#flex1{
+    color: tomato;
+    background-color: yellow;
+}
+#flex2{
+    background-color: tomato;
+    display: flex;
+}
+
+    @font-face {
+        font-family:myFirstFont;
+        src:url(https://coursework.vschool.io/content/images/2015/07/luigi.png);
+    
+}

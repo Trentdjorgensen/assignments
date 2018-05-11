@@ -1,0 +1,76 @@
+#gem{
+    position: relative;
+    height: 100px;
+    width: 200px;
+    top: 10px;
+    left:10px;
+    background-color: beige;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Goomba.PNG/220px-Goomba.PNG");
+    background-size: contain;
+    border:5px solid greenyellow;
+    color: goldenrod;
+    text-shadow: 1px 1px black;
+}
+#gem:hover{
+    background-color: red;
+}
+#gem2{
+    position: relative;
+    height: 100px;
+    width: 200px;
+    top: 10px;
+    left:10px;
+    background-color: beige;
+    background-image: url("https://vignette.wikia.nocookie.net/mariokart/images/7/77/Bob-omb_%28Mario_Kart_Wii%29.png/revision/latest?cb=20170323004234");
+    background-size: contain;
+    border:5px solid red;
+    color: goldenrod;
+    text-shadow: 1px 1px black;
+}
+#gem2:hover{
+    background-color: blueviolet;
+}
+#gem3{
+    position: relative;
+    height: 100px;
+    width: 200px;
+    top: 10px;
+    left:10px;
+    background-color: beige;
+    background-image: url("https://vignette.wikia.nocookie.net/fantendo/images/9/9e/Cheep_Cheep_SM3DW.png/revision/latest?cb=20120128144132");
+    background-size: contain;
+    border:5px solid yellow;
+    color: goldenrod;
+    text-shadow: 1px 1px black;
+}
+#gem3:hover{
+    background-color: aqua;
+}
+body{
+    background-image: url("http://cdn2.gamedots.mx/media/gd/super_mario_world_02_mejor.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-attachment: fixed;
+}    
+h1{
+    color: peachpuff;
+}
+p{
+    text-align: center;
+    font-family: fantasy;font-size:40px; color:rgb(67, 233, 67);
+    text-shadow: 1px 1px;color: rgb(89, 62, 247);
+}
+p2{
+    font: 1em sans-serif;font-size: 10px; color: orange;
+}
+.box{
+    align-self: center;
+}
+footer{
+    color: aquamarine;
+}
+button{
+    color: rgb(218, 137, 32);
+    background: rgb(47, 231, 255);
+}

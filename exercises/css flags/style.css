@@ -1,0 +1,160 @@
+#france1{
+    display:inline-block;
+    height: 85px;
+    width: 5%;
+    background-color: blue
+}
+#france2{
+    display:inline-block;
+    height: 85px;
+    width: 5%;
+    background-color: white
+}
+#france3{
+    display:inline-block;
+    height: 85px;
+    width: 5%;
+    background-color: tomato
+}
+.germany{
+    box-shadow: black;
+}
+#g1{
+    position: relative;
+    height: 25px;
+    width: 100px;
+    background-color: black
+}
+#g2{
+    position: relative;;
+    height: 25px;
+    width: 100px;
+    background-color: red
+}
+#g3{
+    position: relative;;
+    height: 25px;
+    width: 100px;
+    background-color: yellow
+}
+#m1{
+    position: relative;;
+    height: 60px;
+    width: 100px;
+    background-color: red
+}
+#m2{
+    position: relative;
+    height: 60px;
+    width: 100px;
+    background-color: green
+}
+
+.switzerland{
+    position: relative;
+    height: 125px;
+    width: 125px;
+    background-color: red
+}
+#s1{
+    position: absolute;
+    height:95px;
+    width: 25px;
+    top:17px;
+    left:48px;
+    background-color: white;
+}
+#s2{
+    position: absolute;
+    height: 30px;
+    width: 95px;
+    top: 45px;
+    left: 15px;
+    background-color: white;
+}
+.sweden{
+    position: relative;
+    height: 125px;
+    width: 150px;
+    background-color: rgb(16, 139, 180);
+}
+#sw1{
+    position: absolute;
+    height: 20px;
+    width: 150px;
+    top: 50px;
+    background-color: yellow;
+}
+#sw2{
+    position: absolute;
+    height: 125px;
+    width: 20px;
+    left: 40px;
+    background-color: yellow;
+}
+.gambia{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    background-color: white;
+}
+#ga1{
+    position: absolute;
+    height: 70px;
+    width: 300px;
+    top: 0px;
+    left: 0px;
+    background-color: red;
+}
+#ga2{
+    position: absolute;
+    height: 40px;
+    width: 300px;
+    top: 80px;
+    background-color: blue;
+}
+#ga3{
+    position: absolute;
+    height: 70px;
+    width: 300px;
+    bottom: 0px;
+    background-color: green;
+}
+.tonga{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(214, 18, 18);
+}
+#t1{
+    position: absolute;
+    height: 100px;
+    width: 125px;
+    background-color: white;
+}
+#t2{
+    position: absolute;
+    height: 80px;
+    width: 20px;
+    top: 10px;
+    left: 50px;
+    background-color: red
+}
+#t3{
+    position: absolute;
+    height: 20px;
+    width: 80px;
+    top: 40px;
+    left: 20px;
+    background-color: red
+}
+.japan{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    background-color: white;
+}
+#j1{
+    position: absolute;
+    
+}

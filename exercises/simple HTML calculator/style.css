@@ -1,0 +1,35 @@
+#add{
+    position: relative;
+    height: 80px;
+    width: 120px;
+    background-color: blue;
+}
+input{
+    outline: none;border: none
+}
+#sub{
+    position: relative;
+    height: 100px;
+    width: 120px;
+    top: 50px; 
+    left: 0px;
+    background-color:red;
+}
+input{
+    outline: none;border: none;
+}
+#times{
+    position: relative;
+    height: 120px;
+    width: 120px;
+    top: 100px; 
+    left: 0px;
+    background-color:violet;
+}
+input{
+    outline: none;border: none;
+}
+
+html{
+    background-color: yellowgreen;
+}
