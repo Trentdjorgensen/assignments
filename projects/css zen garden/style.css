@@ -10,18 +10,19 @@ p{
    
    
 }
- /* body{
+ body{
+    margin: 0;
     
-    background-image: url(http://www.csszengarden.com/214/bamboo.png); 
- } */
- /* #top{
+ } 
+  #top{
      background-image: url(http://www.csszengarden.com/214/huntington.jpg);
- }  */
+ } 
 #start1{
     background-image: url(http://www.csszengarden.com/214/huntington.jpg);
-    height: 500px;
+    height: 375px;
     background-size: cover;
     top: 160px;
     width: 100%;
+    background-position:center;
 
 }

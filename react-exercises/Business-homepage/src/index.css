@@ -1,0 +1,25 @@
+.skateboards{
+   grid-auto-flow: row;
+   display: flex;
+   align-content: center;
+   flex-wrap: wrap;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBt232W4g-LxbsCoXdlY5ZRHBpAI0-GdTje9GpxRKRsgn1_9m4A);
+   background-size:cover;
+   
+} 
+li{
+    height: 50px;
+    width: 100%;
+    background-color:skyblue;
+    font-size: 20px;
+}
+nav{
+    display:flex;
+    font-size:75px;
+    height: 100px;
+    justify-content: space-around;
+    background-color: salmon;
+}
+#1{
+    background-image: url("https://scene7.zumiez.com/is/image/zumiez/pdp_hero/Primitive-x-Dragon-Ball-Z-PRod-Goku-8.0%26quot%3B-Skateboard-Deck--_298391-front-US.jpg");
+}
