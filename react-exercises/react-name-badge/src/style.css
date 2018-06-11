@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+    -ms-flex-align: center;
+    flex-direction: row;
+    align-content: space-around;
+}
+.box{
+    
+    padding:40px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    
+}

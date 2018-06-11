@@ -1,0 +1,46 @@
+body{
+    color:rgb(28, 42, 241);
+    background-color: rgb(235, 204, 31);
+    text-shadow: solid 1px 1px blue;
+}
+
+
+
+.wrapper {
+    background: linear-gradient(to right, #44ce56, #a80c8e);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: solid 1px blue;
+  }
+  
+  .main {
+    height: 85vh;
+    background-image:url('https://images.pexels.com/photos/490411/pexels-photo-490411.jpeg?cs=srgb&dl=road-landscape-nature-490411.jpg&fm=jpg');
+    background-size: cover;
+    box-shadow: 0px 50px 40px 50px rgba(226, 9, 9, 0.75);
+    width: 80%;
+    margin: 0 auto;
+  }
+  button {
+    border: 0;
+    padding: 8px 20px;
+    margin: 0 2px;
+    border-radius: 2px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #e2b758;
+    color: #fff;
+    font-weight: 100;
+  }
+  .container {
+    height: 65vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(21, 226, 226);
+  }
