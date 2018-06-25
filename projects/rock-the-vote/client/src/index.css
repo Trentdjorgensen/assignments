@@ -1,0 +1,31 @@
+body{
+    color:rgb(4, 0, 255);
+    background-color: red;
+   
+}
+.sidenav{
+    background-color: gold;
+    font-size: 30px;
+    flex-wrap: nowrap;
+    display:flex;
+    justify-content: center;
+    
+}
+.form{
+    height: 65vh;
+    width: 80%;
+    display: table-row;
+    align-items: baseline;
+    justify-content: center;
+    text-align: center;
+    color: rgb(21, 226, 226);
+    align-items: center;
+}
+.container{
+    display: flex;
+    
+    background-image: url('http://www.apiavote.org/sites/apiavote/files/vote-campaign-election.jpg');
+    background-size: cover;
+  
+    
+}
